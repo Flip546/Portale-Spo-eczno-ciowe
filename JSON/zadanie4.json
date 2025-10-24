@@ -1,0 +1,21 @@
+[
+
+    {
+
+    "Name" : "Facebook",
+    "Creator" : "Mark Zuckenberg",
+    "Active" : true,
+    "Users" : 1000000000,
+    "Age" : 15.5,
+    "Categories" : ["Groups", "Games", "Posts"],
+    "Release" : "2010",
+    "Backups": {
+        "weekday": ["5:00","10:00","15:00","20:00"],
+        "weekend": ["10:00","20:00"]
+
+    }
+    }
+]
+
+    
+    
