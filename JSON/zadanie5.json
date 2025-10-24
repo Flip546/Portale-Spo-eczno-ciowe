@@ -1,0 +1,76 @@
+[
+    {
+        "Name" : "Facebook",
+        "Creator" : "Mark Zuckenberg",
+        "Active" : true,
+        "Users" : 1000000000,
+        "Age" : 15.5
+    },
+    {
+        "Name" : "Instagram",
+        "Creator" : "John Stones",
+        "Active" : true,
+        "Users" : 9500000000,
+        "Age" : 14.5
+    },
+    { 
+    "Name" : "Snapchat",
+    "Creator" : "Jordan Macailer",
+    "Active" : true,
+    "Users" : 500000000,
+    "Age" : 10.5
+    },
+    {
+    "Name" : "Messenger",
+    "Creator" : "Ally Somelly",
+    "Active" : true,
+    "Users" : 900000000,
+    "Age" : 13.5
+    },
+    {
+    "Name" : "Discord",
+    "Creator" : "Erry Jelly",
+    "Active" : true,
+    "Users" : 700000000,
+    "Age" : 11.5
+    },
+    {
+    "Name" : "Tiktok",
+    "Creator" : "Ola Melries",
+    "Active" : true,
+    "Users" : 9700000000,
+    "Age" : 5.5
+    }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+]
