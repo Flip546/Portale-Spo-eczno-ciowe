@@ -1,0 +1,47 @@
+<? xml version="1.0" encoding="UTF-8" ?>
+
+<PortaleSpolecznosciowe>
+
+<1aplikacja>
+<nazwa pochodzenie="USA" twórca="Zuckbergn">Facebook</nazwa>
+<użytkownicy wiek="35lat" premium="nie">100m</użytkownicy>
+<wiek miesiące="180" dni="5400" >15lat</wiek>
+<popularność dzieci="mała" dorośli="duża"> średnia</popularność>
+</1aplikacja>
+
+<2aplikacja>
+<nazwa pochodzenie="USA" twórca="Kevin Systrom"> Instagram</nazwa>
+<użytkownicy wiek="25lat" premium="nie">200m</użytkownicy>
+<wiek miesiące="120" dni="3600">10lat</wiek>
+<popularność dzieci="duża" dorośli="duża">wysoka</popularność>
+</2aplikacja>
+
+<3aplikacja>
+<nazwa pochodzenie="USA" twórca="Reggie Brown">SnapChat</nazwa>
+<użytkownicy wiek="20lat" premium="tak">50m</użytkownicy>
+<wiek miesiące="156" dni="4680">13lat</wiek>
+<popularność dzieci="średnia" dorośli="niska">niska</popularność>
+</3aplikacja>
+
+<4aplikacja>
+<nazwa pochodzenie="USA" twórca="Zuckerbergn">Messenger</nazwa>
+<użytkownicy wiek="45lat" premium="nie">400m</użytkownicy>
+<wiek miesiące="108" dni="3240">9lat</wiek>
+<popularność dzieci="średnia" dorośli="wysoka">wysoka</popularność>
+</4aplikacja>
+
+<5aplikacja>
+<nazwa pochodzenie="USA" twórca="Jason Citron">Discord</nazwa>
+<użytkownicy wiek="18lat" premium="tak">10m</użytkownicy>
+<wiek miesiące="84" dni="2520">7lat</wiek>
+<popularność dzieci="średnia" dorośli="niska">niska</popularność>
+</5aplikacja>
+
+<6aplikacja>
+<nazwa pochodzenie="USA" twórca="Aaron Swartz">Reddit</nazwa>
+<użytkownicy wiek="19lat" premium="tak">5m</użytkownicy>
+<wiek miesiące="72" dni="2160">6lat</wiek>
+<popularność dzieci="średnia" dorośli="niska">niska</popularność>
+</6aplikacja>
+
+</PortaleSpolecznosciowe>
