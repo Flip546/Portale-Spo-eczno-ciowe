@@ -26,8 +26,11 @@ Poniższa tabela opisuje dane konkretnych social mediow.
 Popularnosc kiedy zostala wydana i gdzie została wydana.
 
 | Nazwa | Kiedy | Gdzie | Popularnosc       |
-|-----------------------------------------|
+|-------------------------------------------|
 | Facebook | 2009| USA | 2mld miesiecznie   |
 | Instagram | 2009 | USA | 1mld miesiecznie |
 | Twitter | 2007 | USA | 3mld miesiecznie   |
 
+## Obrazy 
+[Facebook](https://www.google.com/search?q=facebook+logo#vhid=oiik9FCNyAOfUM&vssid=_gT77aMz2Eemli-gP7oi4-Qg_54)
+[Instagram](https://www.google.com/search?q=instargram+logo&sca_esv=4c6e5173cbbd1641&sxsrf=AE3TifMKf9ZByQWMOX0wW-HMnDgR9S1ZEQ%3A1761296001297&ei=gT77aMz2Eemli-gP7oi4-Qg&ved=0ahUKEwiMu4H0uryQAxXp0gIHHW4ELo8Q4dUDCBI&uact=5&oq=instargram+logo&gs_lp=Egxnd3Mtd2l6LXNlcnAiD2luc3RhcmdyYW0gbG9nbzILEAAYgAQYkQIYigUyCxAAGIAEGJECGIoFMgsQABiABBiRAhiKBTILEAAYgAQYkQIYigUyCxAAGIAEGJECGIoFMgoQABiABBgKGMsBMgcQABiABBgKMgcQABiABBgKMgcQABiABBgKMgcQABiABBgKSLYXUJ0IWNcWcAJ4AZABAJgBggGgAdcKqgEEMTMuMrgBA8gBAPgBAZgCEaACuwuoAgrCAgoQABiwAxjWBBhHwgINEAAYgAQYsAMYQxiKBcICExAAGIAEGEMYtAIYigUY6gLYAQHCAgQQIxgnwgIKECMYgAQYJxiKBcICChAAGIAEGEMYigXCAgsQLhiABBjRAxjHAcICBRAAGIAEwgIKECMY8AUYJxjJAsICCBAAGIAEGMsBwgIOEC4YgAQYxwEYywEYrwHCAg4QLhiABBjRAxjHARjLAcICHRAuGIAEGMcBGMsBGK8BGJcFGNwEGN4EGOAE2AECwgIHECMYsQIYJ5gDBvEF71wOKvOLZJiIBgGQBgq6BgQIARgHugYGCAIQARgUkgcEMTIuNaAHunuyBwQxMC41uAevC8IHBjItMTYuMcgHTg&sclient=gws-wiz-serp#vhid=YRBTEJWs58dBaM&vssid=_nz77aNK-PLmdi-gPrI3QsQg_54)
